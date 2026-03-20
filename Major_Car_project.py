@@ -1,7 +1,7 @@
 # %%
 ### Project for Data Analysis, ML on data about Car sales history
 ### Version 1 ; Multiple linear regression and Random forest method is used to predict car prise values 
-
+### linked with VS CODE 
 import pandas as pd
 import numpy as np
 import re
